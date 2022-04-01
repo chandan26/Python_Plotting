@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DBFAB8"
+    tools:context=".app_menu">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10sp"
+        android:rowCount="2"
+        android:columnCount="2"
+        >
+
+
+        <Button
+            android:id="@+id/buttonc1"
+            android:layout_gravity="center_vertical"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:textSize="10sp"
+            android:text="View Shifts"
+            android:layout_margin="8dp"
+            android:background="#f2c846"
+            android:layout_height="100dp"
+            />
+
+        <Button
+            android:id="@+id/buttonc3"
+            android:layout_gravity="center_vertical"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:textSize="10sp"
+            android:text="Punch in Time"
+            android:layout_margin="8dp"
+            android:background="#f2c846"
+            android:layout_height="100dp"
+            />
+
+        <Button
+            android:id="@+id/buttonc2"
+            android:layout_gravity="center_vertical"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:text="Punch Out"
+            android:textSize="10sp"
+            android:layout_margin="8dp"
+            android:background="#f2c846"
+            android:layout_height="100dp"
+            />
+
+        <Button
+            android:id="@+id/buttonc4"
+            android:layout_gravity="center_vertical"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:textSize="10sp"
+            android:text="Chat with Manager"
+            android:layout_margin="8dp"
+            android:background="#f2c846"
+
+            android:layout_height="100dp"
+            />
+
+    </GridLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

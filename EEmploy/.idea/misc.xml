@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout-v31/activity_signin.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_app_menu.xml" value="0.2" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_menuscreen.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_my_base.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_punch_in_time.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_punch_out.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_settings.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_signin.xml" value="0.16" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_signup.xml" value="0.109375" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/activity_view_shifts.xml" value="0.176" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/layout/header.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/menu/bott_menu.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/ckpra/AndroidStudioProjects/EEmploy/app/src/main/res/menu/menu.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

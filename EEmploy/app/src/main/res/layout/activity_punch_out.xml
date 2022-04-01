@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".punch_out">
+<GridLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5sp"
+    android:rowCount="2"
+    android:columnCount="2">
+
+
+    <Button
+    android:id="@+id/buttonpo1"
+    android:layout_gravity="center_vertical"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:textSize="10sp"
+        android:textStyle="bold"
+    android:text="Press to Punch Out"
+    android:layout_margin="8dp"
+    android:background="#f2c846"
+    android:layout_height="100dp"
+    />
+</GridLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568647882448",
+    "project_id": "eemploy-769e9",
+    "storage_bucket": "eemploy-769e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568647882448:android:884ee8b744e17951c170d5",
+        "android_client_info": {
+          "package_name": "com.example.e_employ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568647882448-htvl0c9kt0s14i4v36onq11lhkginuff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp3qi89z1Zqp-AfUXwlwbqS4eZUO6BI4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568647882448-htvl0c9kt0s14i4v36onq11lhkginuff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

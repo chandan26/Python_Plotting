@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:title="Home"
+            android:id="@+id/home"/>
+        <item
+            android:title="Punch in Time"
+            android:id="@+id/punch_in_time"/>
+        <item
+            android:title="View Shifts"
+            android:id="@+id/viewShifts"/>
+
+    </group>
+    <item
+        android:title="chat"
+        android:id="@+id/chat"/>
+
+</menu>

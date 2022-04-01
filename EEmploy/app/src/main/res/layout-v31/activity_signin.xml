@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/system_accent1_50"
+    android:clickable="true"
+    android:foregroundTint="@color/teal_200"
+    tools:context=".signin">
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="62dp"
+        android:layout_marginEnd="86dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/enter_password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:textAlignment="textStart"
+        android:textAllCaps="true"
+        android:textColor="#ff7aff24"
+        android:textColorHint="#607D8B"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="88dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/enter_user_name"
+        android:inputType="text|textPhonetic"
+        android:minHeight="48dp"
+        android:textAllCaps="true"
+        android:textColorHint="#607D8B"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:visibility="visible" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        tools:text="Sign In"
+        tools:visibility="visible" />
+
+
+</RelativeLayout>
